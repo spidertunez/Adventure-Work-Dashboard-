@@ -113,6 +113,9 @@ Design user-friendly and interactive dashboards
 
 Translate business questions into actionable insights
 
+These images describe the dashboard +3 others 
+
+
 <img width="946" height="528" alt="Screenshot 2026-03-31 at 6 49 06 PM" src="https://github.com/user-attachments/assets/68363e18-33b0-498f-a566-bd127e40d954" />
 
 
