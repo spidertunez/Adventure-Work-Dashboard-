@@ -116,6 +116,7 @@ Translate business questions into actionable insights
 <img width="946" height="528" alt="Screenshot 2026-03-31 at 6 49 06 PM" src="https://github.com/user-attachments/assets/68363e18-33b0-498f-a566-bd127e40d954" />
 
 
+<img width="956" height="543" alt="Screenshot 2026-03-31 at 6 49 20 PM" src="https://github.com/user-attachments/assets/42f6759f-f88e-4df2-bc5b-7b21c135d99e" />
 
 
 
